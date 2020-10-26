@@ -2,6 +2,8 @@
 using System.Windows;
 using System.Windows.Controls;
 
+// dette er en pull test
+
 namespace CHESSWPF
 {
     class Game
